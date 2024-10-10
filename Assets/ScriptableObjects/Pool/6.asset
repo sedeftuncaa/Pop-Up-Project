@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64f7f01a176a453fb965e156e67e17ad, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  nodeType: 6
+  nodeGameObject: {fileID: 480874720356865423, guid: f317a35f354dfa249af3f0a0bd80c294, type: 3}
+  score: 6
+  sprite: {fileID: 21300000, guid: 091be0bafaf59e04ca8e17f204f54ef2, type: 3}
